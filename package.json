@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A simple command line base RPG game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wizzle13/jest-another-RPG.git"
+  },
+  "author": "Chris Burton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wizzle13/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Wizzle13/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
